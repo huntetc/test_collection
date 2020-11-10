@@ -12,7 +12,7 @@ url: https://huntetc.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /test_collection
 # location of code, the full url to your github repository
-source-code: https://hunetc.github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://hunetc.github.com/CollectionBuilder/test_collection
 
 ##########
 # SITE SETTINGS
